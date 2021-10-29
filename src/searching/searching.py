@@ -12,7 +12,6 @@ def binary_search(arr, target):
     low = 0
     
     while high > low:
-        print(high)
 
         mid = (low + high) // 2
 
